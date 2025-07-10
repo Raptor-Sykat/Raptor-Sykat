@@ -9,6 +9,7 @@ I'm an enthusiastic **SQA Engineer** with 2 years of hands-on experience in soft
 - **Git** (Version control)
 - **Postman** (API testing)
 - **JMeter** (Performance testing)
+- **SonarQube** (SAST – Static Application Security Testing)
 - **Test Case Design & Execution**
 - **Bug Reporting & Documentation**
 
@@ -20,17 +21,13 @@ I'm an enthusiastic **SQA Engineer** with 2 years of hands-on experience in soft
 - Detail-oriented, proactive, and committed to continuous improvement.
 - Love to collaborate and contribute to team success.
 
-<!--
-## 🚀 Projects
+---
 
-*Add your favorite or notable projects here!*
--->
-
-<!--
 ## 📫 Connect with Me
 
-*Add your social or professional links here!*
--->
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sykat)
+- 📞 01854348127  
+- 📧 mahmudislamsykat@gmail.com
 
 ---
 
